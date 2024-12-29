@@ -1,0 +1,188 @@
+{
+  "_tag": {
+    "type": "ACEntity",
+    "resourceId": "ac.acEntity"
+  },
+  "_entityId": "n12aJWef",
+  "children": [
+    {
+      "_tag": {
+        "type": "ACStateEntity",
+        "resourceId": ""
+      },
+      "_entityId": "xyxcFNME",
+      "children": [
+        {
+          "_tag": {
+            "type": "ACClipEntity",
+            "resourceId": ""
+          },
+          "_entityId": "BsEnxJnR",
+          "children": [],
+          "prefabVariant": null,
+          "activeValue": null,
+          "unlockedValue": null,
+          "editorLockValue": false,
+          "editorVisibleValue": true,
+          "speed": 1,
+          "loop": false,
+          "fadeInTime": 0.3,
+          "enablefadeTime": true,
+          "clipRefer": {
+            "fileId": "PET_TORTOISE_INGAME_BASIC_ANIMRES:0",
+            "filePath": "lib://builtInAnim/Pet_Flash_Idle.anim",
+            "_tag": {
+              "type": "GFileRefer"
+            },
+            "fileType": "anim"
+          },
+          "_entityName": "Pet_Flash_Idle"
+        }
+      ],
+      "prefabVariant": null,
+      "activeValue": null,
+      "unlockedValue": null,
+      "editorLockValue": false,
+      "editorVisibleValue": true,
+      "isLoop": false,
+      "DisableChanged": false,
+      "_entityName": "Idle"
+    },
+    {
+      "_tag": {
+        "type": "ACStateEntity",
+        "resourceId": ""
+      },
+      "_entityId": "TkCA7RG3",
+      "children": [
+        {
+          "_tag": {
+            "type": "ACClipEntity",
+            "resourceId": ""
+          },
+          "_entityId": "4eHICE3E",
+          "children": [],
+          "prefabVariant": null,
+          "activeValue": null,
+          "unlockedValue": null,
+          "editorLockValue": false,
+          "editorVisibleValue": true,
+          "speed": 1,
+          "loop": false,
+          "fadeInTime": 0.3,
+          "enablefadeTime": true,
+          "clipRefer": {
+            "fileId": "PET_TORTOISE_INGAME_BASIC_ANIMRES:1",
+            "filePath": "lib://builtInAnim/Pet_Flash_Walk.anim",
+            "_tag": {
+              "type": "GFileRefer"
+            },
+            "fileType": "anim"
+          },
+          "_entityName": "Pet_Flash_Walk"
+        }
+      ],
+      "prefabVariant": null,
+      "activeValue": null,
+      "unlockedValue": null,
+      "editorLockValue": false,
+      "editorVisibleValue": true,
+      "isLoop": false,
+      "DisableChanged": false,
+      "_entityName": "Walk"
+    },
+    {
+      "_tag": {
+        "type": "ACStateEntity",
+        "resourceId": ""
+      },
+      "_entityId": "drHl7NBo",
+      "children": [
+        {
+          "_tag": {
+            "type": "ACClipEntity",
+            "resourceId": ""
+          },
+          "_entityId": "Pslllj0B",
+          "children": [],
+          "prefabVariant": null,
+          "activeValue": null,
+          "unlockedValue": null,
+          "editorLockValue": false,
+          "editorVisibleValue": true,
+          "speed": 1,
+          "loop": false,
+          "fadeInTime": 0.3,
+          "enablefadeTime": true,
+          "clipRefer": {
+            "fileId": "PET_TORTOISE_INGAME_BASIC_ANIMRES:3",
+            "filePath": "lib://builtInAnim/Pet_Flash_Run.anim",
+            "_tag": {
+              "type": "GFileRefer"
+            },
+            "fileType": "anim"
+          },
+          "_entityName": "Pet_Flash_Run"
+        }
+      ],
+      "prefabVariant": null,
+      "activeValue": null,
+      "unlockedValue": null,
+      "editorLockValue": false,
+      "editorVisibleValue": true,
+      "isLoop": false,
+      "DisableChanged": false,
+      "_entityName": "Run"
+    },
+    {
+      "_tag": {
+        "type": "ACStateEntity",
+        "resourceId": ""
+      },
+      "_entityId": "Nvq1yGto",
+      "children": [
+        {
+          "_tag": {
+            "type": "ACClipEntity",
+            "resourceId": ""
+          },
+          "_entityId": "p0E2UZaO",
+          "children": [],
+          "prefabVariant": null,
+          "activeValue": null,
+          "unlockedValue": null,
+          "editorLockValue": false,
+          "editorVisibleValue": true,
+          "speed": 1,
+          "loop": false,
+          "fadeInTime": 0.3,
+          "enablefadeTime": true,
+          "clipRefer": {
+            "fileId": "PET_TORTOISE_INGAME_BASIC_ANIMRES:5",
+            "filePath": "lib://builtInAnim/Pet_Flash_Jump.anim",
+            "_tag": {
+              "type": "GFileRefer"
+            },
+            "fileType": "anim"
+          },
+          "_entityName": "Pet_Flash_Jump"
+        }
+      ],
+      "prefabVariant": null,
+      "activeValue": null,
+      "unlockedValue": null,
+      "editorLockValue": false,
+      "editorVisibleValue": true,
+      "isLoop": false,
+      "DisableChanged": false,
+      "_entityName": "Jump"
+    }
+  ],
+  "prefabVariant": null,
+  "activeValue": null,
+  "unlockedValue": null,
+  "editorLockValue": false,
+  "editorVisibleValue": true,
+  "_entityName": "FlashDefault"
+}
+//"{FE:{"v":"0.0.0","c":{"FF":4701},"s":100}

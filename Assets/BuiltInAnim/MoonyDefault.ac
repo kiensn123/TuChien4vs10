@@ -1,0 +1,188 @@
+{
+  "_tag": {
+    "type": "ACEntity",
+    "resourceId": "ac.acEntity"
+  },
+  "_entityId": "3djj1DtN",
+  "children": [
+    {
+      "_tag": {
+        "type": "ACStateEntity",
+        "resourceId": ""
+      },
+      "_entityId": "wg0WSUEP",
+      "children": [
+        {
+          "_tag": {
+            "type": "ACClipEntity",
+            "resourceId": ""
+          },
+          "_entityId": "8HbVTaQS",
+          "children": [],
+          "prefabVariant": null,
+          "activeValue": null,
+          "unlockedValue": null,
+          "editorLockValue": false,
+          "editorVisibleValue": true,
+          "speed": 1,
+          "loop": false,
+          "fadeInTime": 0.3,
+          "enablefadeTime": true,
+          "clipRefer": {
+            "fileId": "PET_ALIEN_INGAME_BASIC_ANIMRES:0",
+            "filePath": "lib://builtInAnim/Pet_Moony_Idle.anim",
+            "_tag": {
+              "type": "GFileRefer"
+            },
+            "fileType": "anim"
+          },
+          "_entityName": "Pet_Moony_Idle"
+        }
+      ],
+      "prefabVariant": null,
+      "activeValue": null,
+      "unlockedValue": null,
+      "editorLockValue": false,
+      "editorVisibleValue": true,
+      "isLoop": false,
+      "DisableChanged": false,
+      "_entityName": "Idle"
+    },
+    {
+      "_tag": {
+        "type": "ACStateEntity",
+        "resourceId": ""
+      },
+      "_entityId": "t9KZx5VJ",
+      "children": [
+        {
+          "_tag": {
+            "type": "ACClipEntity",
+            "resourceId": ""
+          },
+          "_entityId": "7UJrYgEI",
+          "children": [],
+          "prefabVariant": null,
+          "activeValue": null,
+          "unlockedValue": null,
+          "editorLockValue": false,
+          "editorVisibleValue": true,
+          "speed": 1,
+          "loop": false,
+          "fadeInTime": 0.3,
+          "enablefadeTime": true,
+          "clipRefer": {
+            "fileId": "PET_ALIEN_INGAME_BASIC_ANIMRES:1",
+            "filePath": "lib://builtInAnim/Pet_Moony_Walk.anim",
+            "_tag": {
+              "type": "GFileRefer"
+            },
+            "fileType": "anim"
+          },
+          "_entityName": "Pet_Moony_Walk"
+        }
+      ],
+      "prefabVariant": null,
+      "activeValue": null,
+      "unlockedValue": null,
+      "editorLockValue": false,
+      "editorVisibleValue": true,
+      "isLoop": false,
+      "DisableChanged": false,
+      "_entityName": "Walk"
+    },
+    {
+      "_tag": {
+        "type": "ACStateEntity",
+        "resourceId": ""
+      },
+      "_entityId": "UrkyIpcy",
+      "children": [
+        {
+          "_tag": {
+            "type": "ACClipEntity",
+            "resourceId": ""
+          },
+          "_entityId": "UGqgLWPP",
+          "children": [],
+          "prefabVariant": null,
+          "activeValue": null,
+          "unlockedValue": null,
+          "editorLockValue": false,
+          "editorVisibleValue": true,
+          "speed": 1,
+          "loop": false,
+          "fadeInTime": 0.3,
+          "enablefadeTime": true,
+          "clipRefer": {
+            "fileId": "PET_ALIEN_INGAME_BASIC_ANIMRES:3",
+            "filePath": "lib://builtInAnim/Pet_Moony_Run.anim",
+            "_tag": {
+              "type": "GFileRefer"
+            },
+            "fileType": "anim"
+          },
+          "_entityName": "Pet_Moony_Run"
+        }
+      ],
+      "prefabVariant": null,
+      "activeValue": null,
+      "unlockedValue": null,
+      "editorLockValue": false,
+      "editorVisibleValue": true,
+      "isLoop": false,
+      "DisableChanged": false,
+      "_entityName": "Run"
+    },
+    {
+      "_tag": {
+        "type": "ACStateEntity",
+        "resourceId": ""
+      },
+      "_entityId": "NCnhWTPV",
+      "children": [
+        {
+          "_tag": {
+            "type": "ACClipEntity",
+            "resourceId": ""
+          },
+          "_entityId": "VSfcaELi",
+          "children": [],
+          "prefabVariant": null,
+          "activeValue": null,
+          "unlockedValue": null,
+          "editorLockValue": false,
+          "editorVisibleValue": true,
+          "speed": 1,
+          "loop": false,
+          "fadeInTime": 0.3,
+          "enablefadeTime": true,
+          "clipRefer": {
+            "fileId": "PET_ALIEN_INGAME_BASIC_ANIMRES:5",
+            "filePath": "lib://builtInAnim/Pet_Moony_Jump.anim",
+            "_tag": {
+              "type": "GFileRefer"
+            },
+            "fileType": "anim"
+          },
+          "_entityName": "Pet_Moony_Jump"
+        }
+      ],
+      "prefabVariant": null,
+      "activeValue": null,
+      "unlockedValue": null,
+      "editorLockValue": false,
+      "editorVisibleValue": true,
+      "isLoop": false,
+      "DisableChanged": false,
+      "_entityName": "Jump"
+    }
+  ],
+  "prefabVariant": null,
+  "activeValue": null,
+  "unlockedValue": null,
+  "editorLockValue": false,
+  "editorVisibleValue": true,
+  "_entityName": "MoonyDefault"
+}
+//"{FE:{"v":"0.0.0","c":{"FF":4701},"s":100}

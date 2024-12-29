@@ -1,0 +1,176 @@
+{
+  "_tag": {
+    "type": "FileStateRecord"
+  },
+  "_entityId": "nEywJFpN",
+  "fileState": {
+    "9506c412-e93c-4b71-b0d9-83944a97ba2d": {
+      "viewState": {
+        "x": 41.77442932128906,
+        "y": 16.239791870117188,
+        "z": -50.53113555908203
+      },
+      "rotationState": {
+        "x": 29.20002555847168,
+        "y": 16.899934768676758,
+        "z": -4.890321179118473e-7
+      }
+    },
+    "hw1o08pfzir-lypix953-pv9eqtntvf9": {
+      "viewState": {
+        "x": -80,
+        "y": 0
+      },
+      "scaleState": 1
+    },
+    "slq7rrqgbo-lypj0y5c-tm5nxngtmyc": {
+      "viewState": {
+        "x": 7.19989013671875,
+        "y": 99.39999389648438
+      },
+      "scaleState": 1
+    },
+    "81003cljtk6-lypjpd2m-2fl1jdyguv1": {
+      "viewState": {
+        "x": -638.4002075195312,
+        "y": 46.30004882812494
+      },
+      "scaleState": 1
+    },
+    "qox5byrqiwl-lypkd6u3-4ybsqw6kvxb": {
+      "viewState": {
+        "x": 205.5,
+        "y": 30.5
+      },
+      "scaleState": 1
+    },
+    "u7qgfpwdi4e-lypkybuo-sm60xpjud8i": {
+      "viewState": {
+        "x": -929.4980522189071,
+        "y": -999.7001975089333
+      },
+      "scaleState": 1
+    },
+    "kfg5ej152p9-lypl9vkh-9um3eg28xcw": {
+      "viewState": {
+        "x": -61.59955596923828,
+        "y": 123.20003509521473
+      },
+      "scaleState": 1
+    },
+    "dlpus4791aq-lyploztm-j9jl0z5zll": {
+      "viewState": {
+        "x": -960.055114746094,
+        "y": -84.80004882812503
+      },
+      "scaleState": 1
+    },
+    "bdje68im0ha-lypkl4x5-3n2ur86895r": {
+      "viewState": {
+        "x": 39.783355712890625,
+        "y": 59.06660652160667
+      },
+      "scaleState": 1
+    },
+    "xityio2sj4s-lypplxpc-iy4y2x8bn2s": {
+      "viewState": {
+        "x": 131.40234375000017,
+        "y": 2.999999999999943
+      },
+      "scaleState": 0.75
+    },
+    "f46z4z95ian-lypplmz7-0ep3g2rg8khm": {
+      "viewState": {
+        "x": -50.39984130859443,
+        "y": 72.39993286132858
+      },
+      "scaleState": 1
+    },
+    "cefp6j28v3-lypm3baf-8d799aayj2t": {
+      "viewState": {
+        "x": 255.05194091796875,
+        "y": -646
+      },
+      "scaleState": 0.5
+    },
+    "g1a208kk90e-lyqpikh4-r8y9fp5qry": {
+      "viewState": {
+        "x": 83.199951171875,
+        "y": 130.4000244140625
+      },
+      "scaleState": 1
+    },
+    "rtxiw00kc5-lyqyic78-7sp7t9rokes": {
+      "viewState": {
+        "x": -173.5999755859376,
+        "y": -134.4000091552735
+      },
+      "scaleState": 1
+    },
+    "2nhl2pmj1n2-lyqyzix0-l7iinm3o2": {
+      "viewState": {
+        "x": 207.88281631469727,
+        "y": -4559.4999923706055
+      },
+      "scaleState": 1
+    },
+    "k0qgqorgcoh-lyr64cuh-2hhvogw5fah": {
+      "viewState": {
+        "x": 618.4875888824463,
+        "y": 154.19994354248047
+      },
+      "scaleState": 0.5
+    },
+    "vwv8s3htty-lyr6ipd5-wp9i2j0pt8o": {
+      "viewState": {
+        "x": 1500.2999267578125,
+        "y": -379.4500045776366
+      },
+      "scaleState": 0.75
+    },
+    "t8g0w2chvge-lypr14uq-6rybgjg3val": {
+      "viewState": {
+        "x": 331.34765625,
+        "y": -254.5
+      },
+      "scaleState": 1
+    },
+    "tlskvv8hbg-lywo1w1v-ptxniu7a56": {
+      "viewState": {
+        "x": 1114.783203125,
+        "y": -389.875
+      },
+      "scaleState": 0.75
+    },
+    "acviiray008-lywoc0uw-ta6loirek4m": {
+      "viewState": {
+        "x": -418.69996643066406,
+        "y": -231.67520141601562
+      },
+      "scaleState": 0.75
+    },
+    "tldglzem1d-lypklink-c07gvg3o5lj": {
+      "viewState": {
+        "x": -145.19976806640625,
+        "y": -554.5000915527346
+      },
+      "scaleState": 1
+    },
+    "pn18cwlsf7r-lyws7uzo-2fomh3xemu6": {
+      "viewState": {
+        "x": -902.1751708984375,
+        "y": -34.75
+      },
+      "scaleState": 0.75
+    },
+    "14w6vbwci8o-lyy6j1om-u2p1n1wjglj": {
+      "viewState": {
+        "x": -17.341796875,
+        "y": 728.2000122070312
+      },
+      "scaleState": 1
+    }
+  },
+  "children": []
+}
+//"{FE:{"v":"1.11.3353447","c":{"FF":4701},"s":100}

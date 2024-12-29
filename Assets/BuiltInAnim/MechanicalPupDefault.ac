@@ -1,0 +1,188 @@
+{
+  "_tag": {
+    "type": "ACEntity",
+    "resourceId": "ac.acEntity"
+  },
+  "_entityId": "3eC0fFIx",
+  "children": [
+    {
+      "_tag": {
+        "type": "ACStateEntity",
+        "resourceId": ""
+      },
+      "_entityId": "vm0amAL8",
+      "children": [
+        {
+          "_tag": {
+            "type": "ACClipEntity",
+            "resourceId": ""
+          },
+          "_entityId": "GXmEYB0T",
+          "children": [],
+          "prefabVariant": null,
+          "activeValue": null,
+          "unlockedValue": null,
+          "editorLockValue": false,
+          "editorVisibleValue": true,
+          "speed": 1,
+          "loop": false,
+          "fadeInTime": 0.3,
+          "enablefadeTime": true,
+          "clipRefer": {
+            "fileId": "PET_DOG_INGAME_BASIC_ANIMRES:0",
+            "filePath": "lib://builtInAnim/Pet_MechanicalPup_Idle.anim",
+            "_tag": {
+              "type": "GFileRefer"
+            },
+            "fileType": "anim"
+          },
+          "_entityName": "Pet_MechanicalPup_Idle"
+        }
+      ],
+      "prefabVariant": null,
+      "activeValue": null,
+      "unlockedValue": null,
+      "editorLockValue": false,
+      "editorVisibleValue": true,
+      "isLoop": false,
+      "DisableChanged": false,
+      "_entityName": "Idle"
+    },
+    {
+      "_tag": {
+        "type": "ACStateEntity",
+        "resourceId": ""
+      },
+      "_entityId": "cPAWi858",
+      "children": [
+        {
+          "_tag": {
+            "type": "ACClipEntity",
+            "resourceId": ""
+          },
+          "_entityId": "jsY2rPdZ",
+          "children": [],
+          "prefabVariant": null,
+          "activeValue": null,
+          "unlockedValue": null,
+          "editorLockValue": false,
+          "editorVisibleValue": true,
+          "speed": 1,
+          "loop": false,
+          "fadeInTime": 0.3,
+          "enablefadeTime": true,
+          "clipRefer": {
+            "fileId": "PET_DOG_INGAME_BASIC_ANIMRES:1",
+            "filePath": "lib://builtInAnim/Pet_MechanicalPup_Walk.anim",
+            "_tag": {
+              "type": "GFileRefer"
+            },
+            "fileType": "anim"
+          },
+          "_entityName": "Pet_MechanicalPup_Walk"
+        }
+      ],
+      "prefabVariant": null,
+      "activeValue": null,
+      "unlockedValue": null,
+      "editorLockValue": false,
+      "editorVisibleValue": true,
+      "isLoop": false,
+      "DisableChanged": false,
+      "_entityName": "Walk"
+    },
+    {
+      "_tag": {
+        "type": "ACStateEntity",
+        "resourceId": ""
+      },
+      "_entityId": "Kc9S1v0e",
+      "children": [
+        {
+          "_tag": {
+            "type": "ACClipEntity",
+            "resourceId": ""
+          },
+          "_entityId": "3A4b6L5A",
+          "children": [],
+          "prefabVariant": null,
+          "activeValue": null,
+          "unlockedValue": null,
+          "editorLockValue": false,
+          "editorVisibleValue": true,
+          "speed": 1,
+          "loop": false,
+          "fadeInTime": 0.3,
+          "enablefadeTime": true,
+          "clipRefer": {
+            "fileId": "PET_DOG_INGAME_BASIC_ANIMRES:3",
+            "filePath": "lib://builtInAnim/Pet_MechanicalPup_Run.anim",
+            "_tag": {
+              "type": "GFileRefer"
+            },
+            "fileType": "anim"
+          },
+          "_entityName": "Pet_MechanicalPup_Run"
+        }
+      ],
+      "prefabVariant": null,
+      "activeValue": null,
+      "unlockedValue": null,
+      "editorLockValue": false,
+      "editorVisibleValue": true,
+      "isLoop": false,
+      "DisableChanged": false,
+      "_entityName": "Run"
+    },
+    {
+      "_tag": {
+        "type": "ACStateEntity",
+        "resourceId": ""
+      },
+      "_entityId": "T2UJSNLc",
+      "children": [
+        {
+          "_tag": {
+            "type": "ACClipEntity",
+            "resourceId": ""
+          },
+          "_entityId": "7C8jfdCL",
+          "children": [],
+          "prefabVariant": null,
+          "activeValue": null,
+          "unlockedValue": null,
+          "editorLockValue": false,
+          "editorVisibleValue": true,
+          "speed": 1,
+          "loop": false,
+          "fadeInTime": 0.3,
+          "enablefadeTime": true,
+          "clipRefer": {
+            "fileId": "PET_DOG_INGAME_BASIC_ANIMRES:5",
+            "filePath": "lib://builtInAnim/Pet_MechanicalPup_Jump.anim",
+            "_tag": {
+              "type": "GFileRefer"
+            },
+            "fileType": "anim"
+          },
+          "_entityName": "Pet_MechanicalPup_Jump"
+        }
+      ],
+      "prefabVariant": null,
+      "activeValue": null,
+      "unlockedValue": null,
+      "editorLockValue": false,
+      "editorVisibleValue": true,
+      "isLoop": false,
+      "DisableChanged": false,
+      "_entityName": "Jump"
+    }
+  ],
+  "prefabVariant": null,
+  "activeValue": null,
+  "unlockedValue": null,
+  "editorLockValue": false,
+  "editorVisibleValue": true,
+  "_entityName": "MechanicalPupDefault"
+}
+//"{FE:{"v":"0.0.0","c":{"FF":4701},"s":100}

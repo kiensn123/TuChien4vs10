@@ -1,0 +1,188 @@
+{
+  "_tag": {
+    "type": "ACEntity",
+    "resourceId": "ac.acEntity"
+  },
+  "_entityId": "JGuWJ9iL",
+  "children": [
+    {
+      "_tag": {
+        "type": "ACStateEntity",
+        "resourceId": ""
+      },
+      "_entityId": "RWGp3vz5",
+      "children": [
+        {
+          "_tag": {
+            "type": "ACClipEntity",
+            "resourceId": ""
+          },
+          "_entityId": "Ox5srEeJ",
+          "children": [],
+          "prefabVariant": null,
+          "activeValue": null,
+          "unlockedValue": null,
+          "editorLockValue": false,
+          "editorVisibleValue": true,
+          "speed": 1,
+          "loop": false,
+          "fadeInTime": 0.3,
+          "enablefadeTime": true,
+          "clipRefer": {
+            "fileId": "PET_OWL_INGAME_BASIC_ANIMRES:0",
+            "filePath": "lib://builtInAnim/Pet_Hoot_Idle.anim",
+            "_tag": {
+              "type": "GFileRefer"
+            },
+            "fileType": "anim"
+          },
+          "_entityName": "Pet_Hoot_Idle"
+        }
+      ],
+      "prefabVariant": null,
+      "activeValue": null,
+      "unlockedValue": null,
+      "editorLockValue": false,
+      "editorVisibleValue": true,
+      "isLoop": false,
+      "DisableChanged": false,
+      "_entityName": "Idle"
+    },
+    {
+      "_tag": {
+        "type": "ACStateEntity",
+        "resourceId": ""
+      },
+      "_entityId": "BaFibQpY",
+      "children": [
+        {
+          "_tag": {
+            "type": "ACClipEntity",
+            "resourceId": ""
+          },
+          "_entityId": "NvjoBMUl",
+          "children": [],
+          "prefabVariant": null,
+          "activeValue": null,
+          "unlockedValue": null,
+          "editorLockValue": false,
+          "editorVisibleValue": true,
+          "speed": 1,
+          "loop": false,
+          "fadeInTime": 0.3,
+          "enablefadeTime": true,
+          "clipRefer": {
+            "fileId": "PET_OWL_INGAME_BASIC_ANIMRES:1",
+            "filePath": "lib://builtInAnim/Pet_Hoot_Walk.anim",
+            "_tag": {
+              "type": "GFileRefer"
+            },
+            "fileType": "anim"
+          },
+          "_entityName": "Pet_Hoot_Walk"
+        }
+      ],
+      "prefabVariant": null,
+      "activeValue": null,
+      "unlockedValue": null,
+      "editorLockValue": false,
+      "editorVisibleValue": true,
+      "isLoop": false,
+      "DisableChanged": false,
+      "_entityName": "Walk"
+    },
+    {
+      "_tag": {
+        "type": "ACStateEntity",
+        "resourceId": ""
+      },
+      "_entityId": "Sb1Jivpr",
+      "children": [
+        {
+          "_tag": {
+            "type": "ACClipEntity",
+            "resourceId": ""
+          },
+          "_entityId": "1qCGjckL",
+          "children": [],
+          "prefabVariant": null,
+          "activeValue": null,
+          "unlockedValue": null,
+          "editorLockValue": false,
+          "editorVisibleValue": true,
+          "speed": 1,
+          "loop": false,
+          "fadeInTime": 0.3,
+          "enablefadeTime": true,
+          "clipRefer": {
+            "fileId": "PET_OWL_INGAME_BASIC_ANIMRES:3",
+            "filePath": "lib://builtInAnim/Pet_Hoot_Run.anim",
+            "_tag": {
+              "type": "GFileRefer"
+            },
+            "fileType": "anim"
+          },
+          "_entityName": "Pet_Hoot_Run"
+        }
+      ],
+      "prefabVariant": null,
+      "activeValue": null,
+      "unlockedValue": null,
+      "editorLockValue": false,
+      "editorVisibleValue": true,
+      "isLoop": false,
+      "DisableChanged": false,
+      "_entityName": "Run"
+    },
+    {
+      "_tag": {
+        "type": "ACStateEntity",
+        "resourceId": ""
+      },
+      "_entityId": "S61ZVaY2",
+      "children": [
+        {
+          "_tag": {
+            "type": "ACClipEntity",
+            "resourceId": ""
+          },
+          "_entityId": "2Flq30Jy",
+          "children": [],
+          "prefabVariant": null,
+          "activeValue": null,
+          "unlockedValue": null,
+          "editorLockValue": false,
+          "editorVisibleValue": true,
+          "speed": 1,
+          "loop": false,
+          "fadeInTime": 0.3,
+          "enablefadeTime": true,
+          "clipRefer": {
+            "fileId": "PET_OWL_INGAME_BASIC_ANIMRES:5",
+            "filePath": "lib://builtInAnim/Pet_Hoot_Jump.anim",
+            "_tag": {
+              "type": "GFileRefer"
+            },
+            "fileType": "anim"
+          },
+          "_entityName": "Pet_Hoot_Jump"
+        }
+      ],
+      "prefabVariant": null,
+      "activeValue": null,
+      "unlockedValue": null,
+      "editorLockValue": false,
+      "editorVisibleValue": true,
+      "isLoop": false,
+      "DisableChanged": false,
+      "_entityName": "Jump"
+    }
+  ],
+  "prefabVariant": null,
+  "activeValue": null,
+  "unlockedValue": null,
+  "editorLockValue": false,
+  "editorVisibleValue": true,
+  "_entityName": "HootDefault"
+}
+//"{FE:{"v":"0.0.0","c":{"FF":4701},"s":100}
