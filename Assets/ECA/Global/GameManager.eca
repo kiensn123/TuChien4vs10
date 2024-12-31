@@ -78,7 +78,7 @@
                             "V1": {
                               "shadow": {
                                 "type": "tys",
-                                "id": "vlOifEIb5DS;;3`OoCLS",
+                                "id": "Ufq1[@W`I%!0XGzcw)G_",
                                 "extraState": "any"
                               },
                               "block": {
@@ -113,7 +113,7 @@
                             "V2": {
                               "shadow": {
                                 "type": "tys",
-                                "id": "%B@qh3NyMnYHw-i9x;)D",
+                                "id": "0qK=O)L*)r^ZU1NwaOIZ",
                                 "extraState": "any"
                               },
                               "block": {
@@ -246,7 +246,7 @@
                 "V": {
                   "shadow": {
                     "type": "tyd",
-                    "id": "28Qj1m#sYbHo)v7id9l[",
+                    "id": "c/ou%Q=-nz2,Swz~n!3#",
                     "extraState": "ListT_Team"
                   },
                   "block": {
@@ -276,7 +276,7 @@
                     "V": {
                       "shadow": {
                         "type": "tyd",
-                        "id": "U)oRlk#0tb]?ZV9X2)k.",
+                        "id": "={eavc~opp-~Ox}sY`LR",
                         "extraState": "Team"
                       },
                       "block": {
@@ -335,7 +335,7 @@
                         "V": {
                           "shadow": {
                             "type": "tyd",
-                            "id": "TR^gq~:Jd~ML/~du8KN1",
+                            "id": "-keCO5my=qBApJ1V2IzI",
                             "extraState": "ListT_Player"
                           },
                           "block": {
@@ -423,7 +423,7 @@
                                         "V1": {
                                           "shadow": {
                                             "type": "tys",
-                                            "id": "O(Ys_c_0LVrc}9M%F_Zw",
+                                            "id": "icEp!px(rhU5{x)Q4-3.",
                                             "extraState": "any"
                                           },
                                           "block": {
@@ -458,7 +458,7 @@
                                         "V2": {
                                           "shadow": {
                                             "type": "tys",
-                                            "id": "4lY7?`1v_=):@!G]=r~^",
+                                            "id": "9n1+Jy[[qO~+lG=zLeBO",
                                             "extraState": "any"
                                           },
                                           "block": {
@@ -499,7 +499,7 @@
                                         "V": {
                                           "shadow": {
                                             "type": "tys",
-                                            "id": "hLF=D@YZ[2J!`_UbU(a_",
+                                            "id": "g=;CgZd;eX7/c%rpOOFd",
                                             "extraState": "Bool"
                                           },
                                           "block": {
@@ -561,7 +561,7 @@
                 "V": {
                   "shadow": {
                     "type": "tyd",
-                    "id": "Nsq9n{rUeRP4}sN)a0/a",
+                    "id": "s7t.u*^GCE71XN,WvuUg",
                     "extraState": "ListT_Team"
                   },
                   "block": {
@@ -591,7 +591,7 @@
                     "V": {
                       "shadow": {
                         "type": "tyd",
-                        "id": "%Pd~(h_^)G4C*JKYCIgn",
+                        "id": "/0]xzZRAWg2,`ER_GOv[",
                         "extraState": "Team"
                       },
                       "block": {
@@ -650,7 +650,7 @@
                         "V": {
                           "shadow": {
                             "type": "tyd",
-                            "id": "VyJ8!K=svET9`.@]frHO",
+                            "id": "]fS7,sT3]Y/^TSc*q(aC",
                             "extraState": "ListT_Player"
                           },
                           "block": {
@@ -740,7 +740,7 @@
                                   "V": {
                                     "shadow": {
                                       "type": "tys",
-                                      "id": "Oyw[Rf^XM1D?S:iOk.M#",
+                                      "id": "Skt5gW]pQrKNML+C;%4l",
                                       "extraState": "Bool"
                                     },
                                     "block": {
@@ -770,7 +770,7 @@
                                 "V": {
                                   "shadow": {
                                     "type": "tyd",
-                                    "id": "}CnJ%5JXS%Wg_$gc?H+R",
+                                    "id": "2M6*#s`bcCz=m3[W/Xh1",
                                     "extraState": "Team"
                                   },
                                   "block": {
@@ -829,7 +829,7 @@
                                     "V": {
                                       "shadow": {
                                         "type": "tyd",
-                                        "id": "6*qG~)huDN.:$)5t#xO_",
+                                        "id": "G9DSWff2`1s)10kfk$~_",
                                         "extraState": "ListT_Player"
                                       },
                                       "block": {
@@ -864,271 +864,70 @@
                                   },
                                   "next": {
                                     "block": {
-                                      "type": "ife1",
-                                      "id": "1tpfX/T#(CtP$;YR[dBS",
-                                      "extraState": {
-                                        "X": 2,
-                                        "CIDS": []
+                                      "type": "prs",
+                                      "id": "48aRJjT^]ljOd`0T,n.t",
+                                      "fields": {
+                                        "P": "PROP_74826220:Player",
+                                        "O": "UK"
                                       },
                                       "inputs": {
-                                        "C": {
+                                        "H": {
                                           "shadow": {
                                             "type": "tys",
-                                            "id": "`8whjUAZ@c,0LF_N!LrJ",
-                                            "extraState": "bool"
+                                            "id": "mP,/DJC3s+uSlgAG0{mo",
+                                            "extraState": "Component"
                                           },
                                           "block": {
-                                            "type": "opc",
-                                            "id": "ps.ZDr!:e{2B)HsIiJfZ",
-                                            "fields": {
-                                              "O": "LT"
+                                            "type": "v",
+                                            "id": "l;$1Cvclg!c-GzFnRK-$",
+                                            "extraState": {
+                                              "X": 67,
+                                              "L": [
+                                                1,
+                                                2
+                                              ],
+                                              "T": "ListGetElement",
+                                              "OT": null
                                             },
                                             "inputs": {
-                                              "V1": {
+                                              "P1": {
                                                 "shadow": {
                                                   "type": "tys",
-                                                  "id": "4Wi?h#ghTEMKF+A=]Tc1",
-                                                  "extraState": "number"
-                                                },
-                                                "block": {
-                                                  "type": "v",
-                                                  "id": "vv?p+lSxL.K4G2lW_qgk",
-                                                  "extraState": {
-                                                    "X": 66,
-                                                    "L": [
-                                                      1
-                                                    ],
-                                                    "T": "ListLength",
-                                                    "OT": null
-                                                  },
-                                                  "inputs": {
-                                                    "P1": {
-                                                      "shadow": {
-                                                        "type": "tys",
-                                                        "id": ",]k@N+%CJ?XG`/qO!rc@",
-                                                        "extraState": "List"
-                                                      },
-                                                      "block": {
-                                                        "type": "lcg",
-                                                        "id": "cUn%BVgBBcOmu/9w1V`6",
-                                                        "extraState": "ju.Q(~M$!CbUS:,nR~i5VD",
-                                                        "fields": {
-                                                          "VR": "Tat Ca Nguoi Choi team2"
-                                                        }
-                                                      }
-                                                    }
-                                                  }
-                                                }
-                                              },
-                                              "V2": {
-                                                "shadow": {
-                                                  "type": "tys",
-                                                  "id": "akgJB9Ow~[)c[-_HDI1s",
-                                                  "extraState": "number"
-                                                },
-                                                "block": {
-                                                  "type": "ipi",
-                                                  "id": "l%d:1,o3/RWC6r{0|:ut",
-                                                  "fields": {
-                                                    "V": 4
-                                                  }
-                                                }
-                                              }
-                                            }
-                                          }
-                                        },
-                                        "D": {
-                                          "block": {
-                                            "type": "lpe",
-                                            "id": "`une2WY=z5#v69GJN_-7",
-                                            "fields": {
-                                              "X": {
-                                                "name": "key",
-                                                "type": "Int"
-                                              },
-                                              "I": {
-                                                "name": "plr",
-                                                "type": "Player"
-                                              }
-                                            },
-                                            "inputs": {
-                                              "RN": {
-                                                "shadow": {
-                                                  "type": "tys",
-                                                  "id": "mY_h+j^:t]r1;4l$Y-=D",
-                                                  "extraState": "List|Map__List and Dictionary"
+                                                  "id": "S}3E[0{=`:Q,3lu_rh92",
+                                                  "extraState": "List"
                                                 },
                                                 "block": {
                                                   "type": "lcg",
-                                                  "id": "PS9mPr(?a|]9OEQ*8qPf",
+                                                  "id": "9Bc7eJ0IE40G{l-3thuI",
                                                   "extraState": "ju.Q(~M$!CbUS:,nR~i5VD",
                                                   "fields": {
                                                     "VR": "Tat Ca Nguoi Choi team2"
                                                   }
                                                 }
                                               },
-                                              "D": {
-                                                "block": {
-                                                  "type": "prs",
-                                                  "id": "XNR7{|Vd.Q~Cpfd[?Y6S",
+                                              "P2": {
+                                                "shadow": {
+                                                  "type": "ipi",
+                                                  "id": "GX4dn/*7Q9Aoe2hoAA)$",
                                                   "fields": {
-                                                    "P": "PROP_74826220:Player",
-                                                    "O": "UK"
-                                                  },
-                                                  "inputs": {
-                                                    "H": {
-                                                      "shadow": {
-                                                        "type": "tys",
-                                                        "id": "mP,/DJC3s+uSlgAG0{mo",
-                                                        "extraState": "Component"
-                                                      },
-                                                      "block": {
-                                                        "type": "lcg",
-                                                        "id": "|yntnl3$|OKjC-wPs]q{",
-                                                        "extraState": "`une2WY=z5#v69GJN_-7I",
-                                                        "fields": {
-                                                          "VR": "plr"
-                                                        }
-                                                      }
-                                                    },
-                                                    "V": {
-                                                      "shadow": {
-                                                        "type": "tys",
-                                                        "id": "iBD1*V5nrK9m{x2fG60v",
-                                                        "extraState": "Bool"
-                                                      },
-                                                      "block": {
-                                                        "type": "ipb",
-                                                        "id": "H_MS_?#_n=P$ByuA$hlx",
-                                                        "fields": {
-                                                          "V": "T"
-                                                        }
-                                                      }
-                                                    }
+                                                    "V": 0
                                                   }
                                                 }
                                               }
                                             }
                                           }
                                         },
-                                        "D_else": {
+                                        "V": {
+                                          "shadow": {
+                                            "type": "tys",
+                                            "id": "Ut)CEE*L3U)t)$:=IM(L",
+                                            "extraState": "Bool"
+                                          },
                                           "block": {
-                                            "type": "lpi",
-                                            "id": "chnC{|8]+FRHX/.2u!Qx",
+                                            "type": "ipb",
+                                            "id": "F4nC@B%RNv1sBGBl2ZSS",
                                             "fields": {
-                                              "X": {
-                                                "name": "i",
-                                                "type": "int"
-                                              }
-                                            },
-                                            "inputs": {
-                                              "FR": {
-                                                "shadow": {
-                                                  "type": "ipi",
-                                                  "id": "$1k(g-=df,U!H_.~.QL#",
-                                                  "fields": {
-                                                    "V": 1
-                                                  }
-                                                }
-                                              },
-                                              "TO": {
-                                                "shadow": {
-                                                  "type": "ipi",
-                                                  "id": "CAin*$%bUkdd6d70,G^F",
-                                                  "fields": {
-                                                    "V": 4
-                                                  }
-                                                }
-                                              },
-                                              "ST": {
-                                                "shadow": {
-                                                  "type": "ipi",
-                                                  "id": "0@|atwXr_Xl=ewjT#To(",
-                                                  "fields": {
-                                                    "V": 1
-                                                  }
-                                                }
-                                              },
-                                              "D": {
-                                                "block": {
-                                                  "type": "prs",
-                                                  "id": "QXCs4w7687PMEOcal~[z",
-                                                  "fields": {
-                                                    "P": "PROP_74826220:Player",
-                                                    "O": "UK"
-                                                  },
-                                                  "inputs": {
-                                                    "H": {
-                                                      "shadow": {
-                                                        "type": "tys",
-                                                        "id": "mP,/DJC3s+uSlgAG0{mo",
-                                                        "extraState": "Component"
-                                                      },
-                                                      "block": {
-                                                        "type": "v",
-                                                        "id": ".=!$]P1W6VD[^$]yWgR}",
-                                                        "extraState": {
-                                                          "X": 67,
-                                                          "L": [
-                                                            1,
-                                                            2
-                                                          ],
-                                                          "T": "ListGetElement",
-                                                          "OT": null
-                                                        },
-                                                        "inputs": {
-                                                          "P1": {
-                                                            "shadow": {
-                                                              "type": "tys",
-                                                              "id": "S}3E[0{=`:Q,3lu_rh92",
-                                                              "extraState": "List"
-                                                            },
-                                                            "block": {
-                                                              "type": "lcg",
-                                                              "id": "Xq/QHgldcJ:1nr,H^/=Q",
-                                                              "extraState": "ju.Q(~M$!CbUS:,nR~i5VD",
-                                                              "fields": {
-                                                                "VR": "Tat Ca Nguoi Choi team2"
-                                                              }
-                                                            }
-                                                          },
-                                                          "P2": {
-                                                            "shadow": {
-                                                              "type": "ipi",
-                                                              "id": "GX4dn/*7Q9Aoe2hoAA)$",
-                                                              "fields": {
-                                                                "V": 0
-                                                              }
-                                                            },
-                                                            "block": {
-                                                              "type": "lcg",
-                                                              "id": "v0C2Och#KbGz,k!~JEF+",
-                                                              "extraState": "chnC{|8]+FRHX/.2u!QxX",
-                                                              "fields": {
-                                                                "VR": "i"
-                                                              }
-                                                            }
-                                                          }
-                                                        }
-                                                      }
-                                                    },
-                                                    "V": {
-                                                      "shadow": {
-                                                        "type": "tys",
-                                                        "id": "?F(yHl:Pxu@+[z_b+L85",
-                                                        "extraState": "Bool"
-                                                      },
-                                                      "block": {
-                                                        "type": "ipb",
-                                                        "id": "ebqE@]([!J.(]EPVZX]h",
-                                                        "fields": {
-                                                          "V": "T"
-                                                        }
-                                                      }
-                                                    }
-                                                  }
-                                                }
-                                              }
+                                              "V": "T"
                                             }
                                           }
                                         }
@@ -1329,7 +1128,7 @@
                                   "I0": {
                                     "shadow": {
                                       "type": "tys",
-                                      "id": "[w3b/Q$8H~/0`zSo-nOq",
+                                      "id": "C2x3-{69(@pOZW:lS6^u",
                                       "extraState": "String"
                                     },
                                     "block": {
@@ -1343,7 +1142,7 @@
                                   "I1": {
                                     "shadow": {
                                       "type": "tys",
-                                      "id": "[FgZ:,hzgmpBJv/2K*z0",
+                                      "id": "?lup!FT@1q8Ix8=3_ON.",
                                       "extraState": "String"
                                     },
                                     "block": {
@@ -1357,7 +1156,7 @@
                                   "I2": {
                                     "shadow": {
                                       "type": "tys",
-                                      "id": "Q]Cxn3~JG;WiZGStE}V`",
+                                      "id": "BubBGXj9`qU*2RXlekHn",
                                       "extraState": "String"
                                     },
                                     "block": {
@@ -1390,7 +1189,7 @@
                                   "I0": {
                                     "shadow": {
                                       "type": "tys",
-                                      "id": "?pl3Zu;NB(ap#7aZDTG3",
+                                      "id": "f]y,ipw/z}$!Eo;aMF$f",
                                       "extraState": "String"
                                     },
                                     "block": {
@@ -1446,7 +1245,7 @@
                                   "I1": {
                                     "shadow": {
                                       "type": "tys",
-                                      "id": "mH6b/66J^5n08a:yU45t",
+                                      "id": "hwrILQ0?1B6Fw`|AErzz",
                                       "extraState": "String"
                                     },
                                     "block": {
@@ -1518,7 +1317,7 @@
                                   "I2": {
                                     "shadow": {
                                       "type": "tys",
-                                      "id": "2Cu^0AxT0Cc383BZfjrw",
+                                      "id": "tS*u~!O[j}HMuvQif|}*",
                                       "extraState": "String"
                                     },
                                     "block": {
@@ -1622,7 +1421,7 @@
                       "V1": {
                         "shadow": {
                           "type": "tys",
-                          "id": "]+3Z%]SMIk]cw#)C?0+*",
+                          "id": "7i/9r,V6:#LIK+jD-OW9",
                           "extraState": "any"
                         },
                         "block": {
@@ -1660,7 +1459,7 @@
                       "V2": {
                         "shadow": {
                           "type": "tys",
-                          "id": "`WK-BS*0_[73.7[WGZ+1",
+                          "id": "q%i[kCS[+2ONEYCg71AO",
                           "extraState": "any"
                         },
                         "block": {
@@ -1704,7 +1503,7 @@
                       "_arg638": {
                         "shadow": {
                           "type": "tys",
-                          "id": "y5kAi}OR5AfCo$Lm%,E{",
+                          "id": "k##.K0H[L(-@;/Prs)+K",
                           "extraState": "Team"
                         },
                         "block": {
@@ -1715,7 +1514,7 @@
                       "_arg4437": {
                         "shadow": {
                           "type": "tys",
-                          "id": "vV(;yQt^Si#X4[Tv}P`z",
+                          "id": "J0]I:`7vb*W.%$AJ`^{I",
                           "extraState": "Int"
                         },
                         "block": {
@@ -1745,7 +1544,7 @@
                       "V1": {
                         "shadow": {
                           "type": "tys",
-                          "id": "VrR[RiGxxw{+e~u9L-ou",
+                          "id": "j.4FqghiUB2gt@k,VP~%",
                           "extraState": "any"
                         },
                         "block": {
@@ -1783,7 +1582,7 @@
                       "V2": {
                         "shadow": {
                           "type": "tys",
-                          "id": "?]yY|EuQx[TjuAC)*c}y",
+                          "id": "GDJ3]FX_:hhnANDB[|]0",
                           "extraState": "any"
                         },
                         "block": {
@@ -1827,7 +1626,7 @@
                       "_arg638": {
                         "shadow": {
                           "type": "tys",
-                          "id": "Jsf`fiWFGYYUO.T(u8K]",
+                          "id": ".K}sZEsA4l=Pz9j/[0z4",
                           "extraState": "Team"
                         },
                         "block": {
@@ -1875,7 +1674,7 @@
                       "_arg4437": {
                         "shadow": {
                           "type": "tys",
-                          "id": "s^[DMGI1DBi8]aTvTbyX",
+                          "id": "M4`0u1pKD6GaOTQo0Suo",
                           "extraState": "Int"
                         },
                         "block": {
@@ -1904,7 +1703,7 @@
                       "V": {
                         "shadow": {
                           "type": "tyd",
-                          "id": "vV$P78B!^a@/QplO%A{.",
+                          "id": "CtZ$6bT7._)B_b,%:`oC",
                           "extraState": "$Auto"
                         },
                         "block": {
@@ -1934,7 +1733,7 @@
                           "V": {
                             "shadow": {
                               "type": "tyd",
-                              "id": "dl*ll^/C^5e^vFouPU!z",
+                              "id": "/3cg$q*LbH_*[TK)#ggN",
                               "extraState": "$Auto"
                             },
                             "block": {
@@ -1993,7 +1792,7 @@
                               "V": {
                                 "shadow": {
                                   "type": "tyd",
-                                  "id": "cmz+0XY,^eJT|k:s!pX[",
+                                  "id": "D)jb-%=MAfYWvZg6n`1t",
                                   "extraState": "$Auto"
                                 },
                                 "block": {
@@ -2136,7 +1935,7 @@
                                               "V1": {
                                                 "shadow": {
                                                   "type": "tys",
-                                                  "id": ";Mp/@Ba:)N),S.QOWO;-",
+                                                  "id": "?}Ms8m*Sych-L8Icxvuq",
                                                   "extraState": "any"
                                                 },
                                                 "block": {
@@ -2192,7 +1991,7 @@
                                               "V2": {
                                                 "shadow": {
                                                   "type": "tys",
-                                                  "id": "%X.6z4_0fzN:)|O)B!5T",
+                                                  "id": "+)=EKG~zQh|xVe/OwlqO",
                                                   "extraState": "any"
                                                 },
                                                 "block": {
@@ -2239,7 +2038,7 @@
                                         "_arg638": {
                                           "shadow": {
                                             "type": "tys",
-                                            "id": "O,f8c]WfOQB$l12lREY6",
+                                            "id": "~LnLyjbO7T5y{gwr1CZn",
                                             "extraState": "Team"
                                           },
                                           "block": {
@@ -2254,7 +2053,7 @@
                                         "_arg4437": {
                                           "shadow": {
                                             "type": "tys",
-                                            "id": "raTYe2W;ebf?V^v[U_9U",
+                                            "id": "}g+]o@xmwH5+b4,NQ2hz",
                                             "extraState": "Int"
                                           },
                                           "block": {
@@ -2356,7 +2155,7 @@
                                               "V1": {
                                                 "shadow": {
                                                   "type": "tys",
-                                                  "id": "=1Pl@Z*QYR{h~#xY1ycO",
+                                                  "id": "}LZAGpkrw9x)0WD)K%=$",
                                                   "extraState": "any"
                                                 },
                                                 "block": {
@@ -2412,7 +2211,7 @@
                                               "V2": {
                                                 "shadow": {
                                                   "type": "tys",
-                                                  "id": "%zAJ(mkX{z!ww5uR{N8#",
+                                                  "id": "7*V/]-?zn7+^R|a9l-[=",
                                                   "extraState": "any"
                                                 },
                                                 "block": {
@@ -2459,7 +2258,7 @@
                                         "_arg638": {
                                           "shadow": {
                                             "type": "tys",
-                                            "id": "WfFd|MJyj?^#|k29Y24N",
+                                            "id": ".S:9XUjgcZDA=@lM(/+-",
                                             "extraState": "Team"
                                           },
                                           "block": {
@@ -2474,7 +2273,7 @@
                                         "_arg4437": {
                                           "shadow": {
                                             "type": "tys",
-                                            "id": "#Fg.j-3;v=m`j%ANk(*1",
+                                            "id": "ETFqH^GQ%{gmnEJg?uBr",
                                             "extraState": "Int"
                                           },
                                           "block": {
@@ -2545,7 +2344,7 @@
                 "V": {
                   "shadow": {
                     "type": "tys",
-                    "id": "w_9w^c*q`$Wtp`}Gr0Ul",
+                    "id": "V:4@_k%r@*~/MF*ik0_1",
                     "extraState": "Bool"
                   },
                   "block": {
@@ -2652,7 +2451,7 @@
                           "V": {
                             "shadow": {
                               "type": "tys",
-                              "id": "B}Lu-LF~}_o,l{a9sYF^",
+                              "id": "?G|9Br,eU){$Wn|rDb!8",
                               "extraState": "MatchResultType"
                             },
                             "block": {
@@ -2722,7 +2521,7 @@
                                           "V1": {
                                             "shadow": {
                                               "type": "tys",
-                                              "id": "wRCuw~TD`)c3G-Ue2/y4",
+                                              "id": "Jf!s?+eOp48,hG%*ez,N",
                                               "extraState": "any"
                                             },
                                             "block": {
@@ -2737,7 +2536,7 @@
                                           "V2": {
                                             "shadow": {
                                               "type": "tys",
-                                              "id": "JZ4:Lb(!rnSGC!vjgh(W",
+                                              "id": "k?{UGce$^]q__4HSI3v^",
                                               "extraState": "any"
                                             },
                                             "block": {
@@ -2779,7 +2578,7 @@
                                           "V": {
                                             "shadow": {
                                               "type": "tys",
-                                              "id": "6y)BMLse?LP{.simX?6X",
+                                              "id": "pfZG_kS+$:o_cxh8_Z,/",
                                               "extraState": "MatchResultType"
                                             },
                                             "block": {
@@ -2861,7 +2660,7 @@
                                 "V": {
                                   "shadow": {
                                     "type": "tys",
-                                    "id": "22$2mmYKO6ThTc3P#Ob5",
+                                    "id": "_Wb[}vm#~rB93N4,`rk%",
                                     "extraState": "MatchResultType"
                                   },
                                   "block": {
@@ -3055,7 +2854,7 @@
                           "V1": {
                             "shadow": {
                               "type": "tys",
-                              "id": "lgr/Uk~$$ERNJ)?UAVmM",
+                              "id": ";/3_=g.=MoVyY#es3$Au",
                               "extraState": "any"
                             },
                             "block": {
@@ -3069,7 +2868,7 @@
                           "V2": {
                             "shadow": {
                               "type": "tys",
-                              "id": "G+X~r?7k1XY.6B6KjuDI",
+                              "id": "w.|*bGO_BwmFI;3;.FUC",
                               "extraState": "any"
                             },
                             "block": {
@@ -3100,7 +2899,7 @@
                           "V1": {
                             "shadow": {
                               "type": "tys",
-                              "id": "btM!.8N~{rZO(2GP7PY?",
+                              "id": "T,~Ej5N8A]]b_rAs5k]4",
                               "extraState": "any"
                             },
                             "block": {
@@ -3114,7 +2913,7 @@
                           "V2": {
                             "shadow": {
                               "type": "tys",
-                              "id": "2G^)6nG:M!AjwjKfVhEw",
+                              "id": "~[-BBF]8rj~kYL+t2^l+",
                               "extraState": "any"
                             },
                             "block": {
@@ -3210,7 +3009,7 @@
                     "V1": {
                       "shadow": {
                         "type": "tys",
-                        "id": "2w{L033?3A433ZU-*5.8",
+                        "id": "/-!_Zed,xi85v?Sj7Fss",
                         "extraState": "any"
                       },
                       "block": {
@@ -3224,7 +3023,7 @@
                     "V2": {
                       "shadow": {
                         "type": "tys",
-                        "id": "q[r)FwV2%}42i,*E|W:Q",
+                        "id": "gHuVgM$uTygIVVg#/vod",
                         "extraState": "any"
                       },
                       "block": {
@@ -3296,7 +3095,7 @@
                                 "V1": {
                                   "shadow": {
                                     "type": "tys",
-                                    "id": "]UU.Dexdn}sSNPuC3:Xe",
+                                    "id": "w^Fo_YM#n;ie4p.dkH;z",
                                     "extraState": "any"
                                   },
                                   "block": {
@@ -3311,7 +3110,7 @@
                                 "V2": {
                                   "shadow": {
                                     "type": "tys",
-                                    "id": "q^{jI%}c@1ckBZ~(i(Iu",
+                                    "id": "4hog3xu!im_PNwG/xOar",
                                     "extraState": "any"
                                   },
                                   "block": {
@@ -3353,7 +3152,7 @@
                                 "V": {
                                   "shadow": {
                                     "type": "tys",
-                                    "id": "t~6MWaW$6[ac|VyAUfJ$",
+                                    "id": "nG*ciQQ:fFp`ZczQXo:X",
                                     "extraState": "Int"
                                   },
                                   "block": {
@@ -3392,7 +3191,7 @@
                                     "V": {
                                       "shadow": {
                                         "type": "tys",
-                                        "id": "-?QC/%*0Xk[uGLD,G=#+",
+                                        "id": "]n*AqaF@eVkE+|d`^u7~",
                                         "extraState": "MatchResultType"
                                       },
                                       "block": {
@@ -3436,7 +3235,7 @@
                                 "V": {
                                   "shadow": {
                                     "type": "tys",
-                                    "id": "fl]ba(se7+)E2hKg^6R5",
+                                    "id": "K[(+LxRHx$jd]7Qs6Kf/",
                                     "extraState": "Int"
                                   },
                                   "block": {
@@ -3475,7 +3274,7 @@
                                     "V": {
                                       "shadow": {
                                         "type": "tys",
-                                        "id": "Bgu_AEEtA#[?2pSMpAgQ",
+                                        "id": "|Rn8s[31B|r(+KIKG,Nm",
                                         "extraState": "Int"
                                       },
                                       "block": {
@@ -3514,7 +3313,7 @@
                                         "V": {
                                           "shadow": {
                                             "type": "tys",
-                                            "id": "A^R!`Ja3-UrtPc)(-`GU",
+                                            "id": "KAxQB^#@X#g;g`VGdvVc",
                                             "extraState": "MatchResultType"
                                           },
                                           "block": {
@@ -3600,7 +3399,7 @@
               "V": {
                 "shadow": {
                   "type": "tys",
-                  "id": "N_;{4cUsU^Vd9ndXOjBs",
+                  "id": "Mo=kvgcL6_[7bKuDs0eQ",
                   "extraState": "Bool"
                 },
                 "block": {
@@ -3659,7 +3458,7 @@
                     "V1": {
                       "shadow": {
                         "type": "tys",
-                        "id": "/_;ql5-,503FlGc4Aiza",
+                        "id": "`Nio_R5q2$]MaT3(h/ws",
                         "extraState": "number"
                       },
                       "block": {
@@ -3674,7 +3473,7 @@
                     "V2": {
                       "shadow": {
                         "type": "tys",
-                        "id": "q,,BADZwUr/YZk$}de_W",
+                        "id": "?n]Wzc?))~b.eOEcW=7_",
                         "extraState": "number"
                       },
                       "block": {
@@ -3703,7 +3502,7 @@
                     "V": {
                       "shadow": {
                         "type": "tyd",
-                        "id": "~C8Naa$34ZATd@:f[?dq",
+                        "id": "BB2@2elu+#hPgL=#yWld",
                         "extraState": "ListT_Team"
                       },
                       "block": {
@@ -3733,7 +3532,7 @@
                         "V": {
                           "shadow": {
                             "type": "tyd",
-                            "id": "}QGGij;6Wgp2x;4)gQl1",
+                            "id": "3F`2I`=1;EAqy,prH/g0",
                             "extraState": "Team"
                           },
                           "block": {
@@ -3792,7 +3591,7 @@
                             "V": {
                               "shadow": {
                                 "type": "tyd",
-                                "id": "1g|1V3Ec/3juJ(SXsJI!",
+                                "id": "NQf@UJBuu{oJGi3t}LFK",
                                 "extraState": "ListT_Player"
                               },
                               "block": {
@@ -3885,7 +3684,7 @@
                                         "_arg7007": {
                                           "shadow": {
                                             "type": "tys",
-                                            "id": "Q7NGnMH_-j5YLaLcoQm7",
+                                            "id": "n:)!;0BY3HLV4^!:V+Rp",
                                             "extraState": "ListT_Player"
                                           },
                                           "block": {
@@ -3925,7 +3724,7 @@
                     "V": {
                       "shadow": {
                         "type": "tyd",
-                        "id": "mn)=T!0)[Wy9,1O%N8.0",
+                        "id": "^3+2;_`@[KQ/UImIcB#{",
                         "extraState": "ListT_Team"
                       },
                       "block": {
@@ -3955,7 +3754,7 @@
                         "V": {
                           "shadow": {
                             "type": "tyd",
-                            "id": "+hC*Zl5{oSV(VTL[(pZM",
+                            "id": "Ihn!OQ/;yzwIhmxPBG;e",
                             "extraState": "Team"
                           },
                           "block": {
@@ -4014,7 +3813,7 @@
                             "V": {
                               "shadow": {
                                 "type": "tyd",
-                                "id": "Sq75oLSEp^P|Ya%@t{$D",
+                                "id": "B/jGep#c)Rw+pfS-z=6L",
                                 "extraState": "ListT_Player"
                               },
                               "block": {
@@ -4107,7 +3906,7 @@
                                         "_arg7007": {
                                           "shadow": {
                                             "type": "tys",
-                                            "id": "vqdLNQ4Jgq*7Plw^o#G`",
+                                            "id": "cI`toK]^,fM.L$ZDZcgl",
                                             "extraState": "ListT_Player"
                                           },
                                           "block": {
@@ -4166,7 +3965,7 @@
                 "V1": {
                   "shadow": {
                     "type": "tys",
-                    "id": "x,a|nYB=YMu#j{O/ACEv",
+                    "id": "~9I(IA,)88_Tuj+W.N~a",
                     "extraState": "any"
                   },
                   "block": {
@@ -4201,7 +4000,7 @@
                 "V2": {
                   "shadow": {
                     "type": "tys",
-                    "id": "%[=^.5$?sodH|u.+50n|",
+                    "id": "$$P-p+jnGCwN*9ww_vr.",
                     "extraState": "any"
                   },
                   "block": {
@@ -4244,7 +4043,7 @@
                 "V1": {
                   "shadow": {
                     "type": "tys",
-                    "id": "qaPi!S9Bo-qO{8HgdB:#",
+                    "id": "j-*,xlK5XW`[F-4~n6qD",
                     "extraState": "any"
                   },
                   "block": {
@@ -4279,7 +4078,7 @@
                 "V2": {
                   "shadow": {
                     "type": "tys",
-                    "id": "-5f^j|v|WJYT4i^0|eh8",
+                    "id": "ck%?ypDrItcRbZbr;pE*",
                     "extraState": "any"
                   },
                   "block": {
@@ -4325,7 +4124,7 @@
                 "V1": {
                   "shadow": {
                     "type": "tys",
-                    "id": "v0aOjT{rSj?*;Nu)(K#j",
+                    "id": "!,$u,^Z(r8AVRYNHql[i",
                     "extraState": "any"
                   },
                   "block": {
@@ -4360,7 +4159,7 @@
                 "V2": {
                   "shadow": {
                     "type": "tys",
-                    "id": "fo(NJm/@%^RuEl|I=wV2",
+                    "id": "bg4IkU!fT:Ozb9a!7,YG",
                     "extraState": "any"
                   },
                   "block": {
@@ -4432,7 +4231,7 @@
                             "V1": {
                               "shadow": {
                                 "type": "tys",
-                                "id": "eRx|8UNkOMvhNqeX`1;/",
+                                "id": "{9m`C0bb+Z*2UzI3=Edj",
                                 "extraState": "number"
                               },
                               "block": {
@@ -4467,7 +4266,7 @@
                             "V2": {
                               "shadow": {
                                 "type": "tys",
-                                "id": "}nToV8vb0EDW+sme(0KK",
+                                "id": "(t}}_]/;Y366}]p0Lpjp",
                                 "extraState": "number"
                               },
                               "block": {
@@ -4617,7 +4416,7 @@
                             "_arg638": {
                               "shadow": {
                                 "type": "tys",
-                                "id": "lg5v5lg!Beg9hsJj:;%m",
+                                "id": "R13%2%5O.`etD:-{L{f=",
                                 "extraState": "Team"
                               },
                               "block": {
@@ -4632,7 +4431,7 @@
                             "_arg4437": {
                               "shadow": {
                                 "type": "tys",
-                                "id": "ZfLJYlcwz[2$Y3z[ct?k",
+                                "id": "HV{R=lDA}R:6bp+i*jF-",
                                 "extraState": "Int"
                               },
                               "block": {
@@ -4668,7 +4467,7 @@
                 "V1": {
                   "shadow": {
                     "type": "tys",
-                    "id": "qJh:7ttmWgds4SeIPijq",
+                    "id": "HfQ6gCwo4T?X@a_OL|BF",
                     "extraState": "any"
                   },
                   "block": {
@@ -4703,7 +4502,7 @@
                 "V2": {
                   "shadow": {
                     "type": "tys",
-                    "id": "+GAA6resyIkY2oE4t=@@",
+                    "id": "y/Y-(,nG]l}[zi[D;8r:",
                     "extraState": "any"
                   },
                   "block": {
@@ -4794,7 +4593,7 @@
           "V": {
             "shadow": {
               "type": "tys",
-              "id": "y+Rqs|g6|G$:RKx|?PSj",
+              "id": "Fm((eCh7LkxB3W_,Q|rn",
               "extraState": "Bool"
             },
             "block": {
@@ -4802,6 +4601,279 @@
               "id": "a)0lr-7ZPnSKR=9Kv/~x",
               "fields": {
                 "V": "T"
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "ife1",
+        "id": "1tpfX/T#(CtP$;YR[dBS",
+        "x": -694,
+        "y": 1594,
+        "extraState": {
+          "X": 2,
+          "CIDS": []
+        },
+        "inputs": {
+          "C": {
+            "shadow": {
+              "type": "tys",
+              "id": "`8whjUAZ@c,0LF_N!LrJ",
+              "extraState": "bool"
+            },
+            "block": {
+              "type": "opc",
+              "id": "ps.ZDr!:e{2B)HsIiJfZ",
+              "fields": {
+                "O": "LT"
+              },
+              "inputs": {
+                "V1": {
+                  "shadow": {
+                    "type": "tys",
+                    "id": "BG2MqOOjLt8PPhb$7YR2",
+                    "extraState": "number"
+                  },
+                  "block": {
+                    "type": "v",
+                    "id": "vv?p+lSxL.K4G2lW_qgk",
+                    "extraState": {
+                      "X": 66,
+                      "L": [
+                        1
+                      ],
+                      "T": "ListLength",
+                      "OT": null
+                    },
+                    "inputs": {
+                      "P1": {
+                        "shadow": {
+                          "type": "tys",
+                          "id": ",]k@N+%CJ?XG`/qO!rc@",
+                          "extraState": "List"
+                        },
+                        "block": {
+                          "type": "lcg",
+                          "id": "cUn%BVgBBcOmu/9w1V`6",
+                          "extraState": "ju.Q(~M$!CbUS:,nR~i5VD",
+                          "fields": {
+                            "VR": "Tat Ca Nguoi Choi team2"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "V2": {
+                  "shadow": {
+                    "type": "tys",
+                    "id": "B~N.$H2jekp1hGZL*$ja",
+                    "extraState": "number"
+                  },
+                  "block": {
+                    "type": "ipi",
+                    "id": "l%d:1,o3/RWC6r{0|:ut",
+                    "fields": {
+                      "V": 4
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "D": {
+            "block": {
+              "type": "lpe",
+              "id": "`une2WY=z5#v69GJN_-7",
+              "fields": {
+                "X": {
+                  "name": "key",
+                  "type": "Int"
+                },
+                "I": {
+                  "name": "plr",
+                  "type": "Player"
+                }
+              },
+              "inputs": {
+                "RN": {
+                  "shadow": {
+                    "type": "tys",
+                    "id": "mY_h+j^:t]r1;4l$Y-=D",
+                    "extraState": "List|Map__List and Dictionary"
+                  },
+                  "block": {
+                    "type": "lcg",
+                    "id": "PS9mPr(?a|]9OEQ*8qPf",
+                    "extraState": "ju.Q(~M$!CbUS:,nR~i5VD",
+                    "fields": {
+                      "VR": "Tat Ca Nguoi Choi team2"
+                    }
+                  }
+                },
+                "D": {
+                  "block": {
+                    "type": "prs",
+                    "id": "XNR7{|Vd.Q~Cpfd[?Y6S",
+                    "fields": {
+                      "P": "PROP_74826220:Player",
+                      "O": "UK"
+                    },
+                    "inputs": {
+                      "H": {
+                        "shadow": {
+                          "type": "tys",
+                          "id": "mP,/DJC3s+uSlgAG0{mo",
+                          "extraState": "Component"
+                        },
+                        "block": {
+                          "type": "lcg",
+                          "id": "|yntnl3$|OKjC-wPs]q{",
+                          "extraState": "`une2WY=z5#v69GJN_-7I",
+                          "fields": {
+                            "VR": "plr"
+                          }
+                        }
+                      },
+                      "V": {
+                        "shadow": {
+                          "type": "tys",
+                          "id": "Zz%]^$Mp_k({?%CF}:{Y",
+                          "extraState": "Bool"
+                        },
+                        "block": {
+                          "type": "ipb",
+                          "id": "H_MS_?#_n=P$ByuA$hlx",
+                          "fields": {
+                            "V": "T"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "D_else": {
+            "block": {
+              "type": "lpi",
+              "id": "chnC{|8]+FRHX/.2u!Qx",
+              "fields": {
+                "X": {
+                  "name": "i",
+                  "type": "int"
+                }
+              },
+              "inputs": {
+                "FR": {
+                  "shadow": {
+                    "type": "ipi",
+                    "id": "$1k(g-=df,U!H_.~.QL#",
+                    "fields": {
+                      "V": 1
+                    }
+                  }
+                },
+                "TO": {
+                  "shadow": {
+                    "type": "ipi",
+                    "id": "CAin*$%bUkdd6d70,G^F",
+                    "fields": {
+                      "V": 4
+                    }
+                  }
+                },
+                "ST": {
+                  "shadow": {
+                    "type": "ipi",
+                    "id": "0@|atwXr_Xl=ewjT#To(",
+                    "fields": {
+                      "V": 1
+                    }
+                  }
+                },
+                "D": {
+                  "block": {
+                    "type": "prs",
+                    "id": "QXCs4w7687PMEOcal~[z",
+                    "fields": {
+                      "P": "PROP_74826220:Player",
+                      "O": "UK"
+                    },
+                    "inputs": {
+                      "H": {
+                        "shadow": {
+                          "type": "tys",
+                          "id": "mP,/DJC3s+uSlgAG0{mo",
+                          "extraState": "Component"
+                        },
+                        "block": {
+                          "type": "v",
+                          "id": ".=!$]P1W6VD[^$]yWgR}",
+                          "extraState": {
+                            "X": 67,
+                            "L": [
+                              1,
+                              2
+                            ],
+                            "T": "ListGetElement",
+                            "OT": null
+                          },
+                          "inputs": {
+                            "P1": {
+                              "shadow": {
+                                "type": "tys",
+                                "id": "S}3E[0{=`:Q,3lu_rh92",
+                                "extraState": "List"
+                              },
+                              "block": {
+                                "type": "lcg",
+                                "id": "Xq/QHgldcJ:1nr,H^/=Q",
+                                "extraState": "ju.Q(~M$!CbUS:,nR~i5VD",
+                                "fields": {
+                                  "VR": "Tat Ca Nguoi Choi team2"
+                                }
+                              }
+                            },
+                            "P2": {
+                              "shadow": {
+                                "type": "ipi",
+                                "id": "GX4dn/*7Q9Aoe2hoAA)$",
+                                "fields": {
+                                  "V": 0
+                                }
+                              },
+                              "block": {
+                                "type": "lcg",
+                                "id": "v0C2Och#KbGz,k!~JEF+",
+                                "extraState": "chnC{|8]+FRHX/.2u!QxX",
+                                "fields": {
+                                  "VR": "i"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "V": {
+                        "shadow": {
+                          "type": "tys",
+                          "id": "@k-Sx{zGAU=mC4a=q1bZ",
+                          "extraState": "Bool"
+                        },
+                        "block": {
+                          "type": "ipb",
+                          "id": "ebqE@]([!J.(]EPVZX]h",
+                          "fields": {
+                            "V": "T"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
               }
             }
           }
